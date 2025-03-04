@@ -12,6 +12,12 @@ HvH大神打胃爆头
 
 `!relive <Steam32ID>`复活玩家
 
+### admin_kill.sp
+
+`!kill self`杀死自己
+
+`!kill <Steam32ID>`杀死玩家
+
 ### admin_money.sp
 
 `!add_money self <value>`给自己添加金钱
